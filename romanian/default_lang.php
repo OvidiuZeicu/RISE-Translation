@@ -1058,45 +1058,45 @@ $lang["hide_team_members_list"] = "Ascunde lista mebrilor echipei?";
 
 /* Version 2.0 */
 
-$lang["summary_details"] = "Summary details";
+$lang["summary_details"] = "Detalii sumare";
 
 $lang["chat"] = "Chat";
-$lang["my_preferences"] = "My preferences";
-$lang["show_push_notification"] = "Show push notification";
-$lang["notification_sound_volume"] = "Notification sound volume";
+$lang["my_preferences"] = "Preferințele mele";
+$lang["show_push_notification"] = "Arată notificare push";
+$lang["notification_sound_volume"] = "Volum sunet notificare";
 
-$lang["project_reference_in_tickets"] = "Enable project reference";
+$lang["project_reference_in_tickets"] = "Activează referințe proiect";
 
-$lang["hide_menus_from_client_portal"] = "Hide menus from client portal";
-$lang["hidden_menus"] = "Hidden menus";
+$lang["hide_menus_from_client_portal"] = "Ascunde meniuri din portalul client";
+$lang["hidden_menus"] = "Meniuri ascunse";
 
-$lang["new_announcement_created"] = "New announcement created";
-$lang["notification_new_announcement_created"] = "Created an announcement.";
+$lang["new_announcement_created"] = "Anunț nou creat";
+$lang["notification_new_announcement_created"] = "A creat un anunț.";
 
-$lang["month"] = "Month";
+$lang["month"] = "Luna";
 $lang["profit"] = "Profit";
 
-$lang["invoice_due_reminder_before_due_date"] = "Invoice due reminder before due date";
-$lang["send_due_invoice_reminder_notification_before"] = "Send due invoice reminder before due date";
-$lang["send_invoice_overdue_reminder_after"] = "Send invoice overdue reminder after";
-$lang["invoice_overdue_reminder"] = "Invoice overdue reminder";
-$lang["recurring_invoice_creation_reminder"] = "Recurring invoice creation reminder";
-$lang["send_recurring_invoice_reminder_before_creation"] = "Send recurring invoice reminder before creation";
+$lang["invoice_due_reminder_before_due_date"] = "Reamintire scadență factură înainte de data scadenței";
+$lang["send_due_invoice_reminder_notification_before"] = "Trimite reamintire scadență factură înainte de data scadenței";
+$lang["send_invoice_overdue_reminder_after"] = "Trimite reamintire scadență factură după";
+$lang["invoice_overdue_reminder"] = "Reamintire scadență factură depășită";
+$lang["recurring_invoice_creation_reminder"] = "Reamintire creare factură recurentă";
+$lang["send_recurring_invoice_reminder_before_creation"] = "Trimite reamintire factură recurentă înainte de creare";
 
-$lang["notification_invoice_due_reminder_before_due_date"] = "Reminder: Invoice due.";
-$lang["notification_invoice_overdue_reminder"] = "Reminder: Invoice overdue";
-$lang["notification_recurring_invoice_creation_reminder"] = "An invoice will be generated soon.";
+$lang["notification_invoice_due_reminder_before_due_date"] = "Reamintire: Factură scadentă.";
+$lang["notification_invoice_overdue_reminder"] = "Reamintire: Scadență factură depășită";
+$lang["notification_recurring_invoice_creation_reminder"] = "O factură va fi generată curând.";
 
-$lang["can_delete_leave_application"] = "Can delete leave application?";
-$lang["no_of_decimals"] = "No. of decimals";
+$lang["can_delete_leave_application"] = "Poate șterge cerere de plecare?";
+$lang["no_of_decimals"] = "Nr. de zecimale";
 
-$lang["checklist"] = "Checklist";
-$lang["delete_checklist_item"] = "Delete checklist item";
+$lang["checklist"] = "Listă de verificare";
+$lang["delete_checklist_item"] = "Șterge intrare din lista de verificare";
 
-$lang["save_and_show"] = "Save & show";
-$lang["total_leave_yearly"] = "Total Leave (Yearly)";
+$lang["save_and_show"] = "Salvează & arată";
+$lang["total_leave_yearly"] = "Total Plecări (Anual)";
 
-$lang["new_conversation"] = "New conversation";
+$lang["new_conversation"] = "Conversație nouă";
 
-$lang["enable_web_notification"] = "Enable web notification";
-$lang["enable_email_notification"] = "Enable email notification";
+$lang["enable_web_notification"] = "Activează notificări web";
+$lang["enable_email_notification"] = "Activează notoficări email";
